@@ -6,7 +6,7 @@
 
 ### Purchasing Analysis
 
-Even though they total number of players is low I would say if they making profit is a good thing.
+Even though they total number of players is low I would say if they are making profits is a good thing.
 
 ### Gender Demographics
 
@@ -14,4 +14,4 @@ The percentage of male players is very high and that’s why they represent the 
 
 ### Purchasing Analysis 
 
-The most profitable Items are the most popular as well. The item with the ID 92 " Final Critic, Oath breaker & he item with the ID 178 Last Hope of the Breaking Storm	
+The most profitable Items are the most popular as well. The item with the ID 92 " Final Critic, Oath breaker & the item with the ID 178 Last Hope of the Breaking Storm	
